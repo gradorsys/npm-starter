@@ -1,4 +1,4 @@
-# Crypto Codecs
+# The Answer
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Travis](https://img.shields.io/travis/adorsys/the-answer.svg)](https://travis-ci.org/adorsys/the-answer)
