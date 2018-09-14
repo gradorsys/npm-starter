@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "dist/the-answer.umd.js",
   "module": "dist/the-answer.es5.js",
+  "browser": "dist/the-answer.iife.js",
   "typings": "dist/types/the-answer.d.ts",
   "files": [
     "dist"
