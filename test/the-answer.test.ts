@@ -1,5 +1,5 @@
 import avaTest, { TestInterface } from 'ava'
-import TheAnswer, { getFortytwo } from '../src/the-answer'
+import TheAnswer, { getFortytwo } from '../src'
 
 const test = avaTest as TestInterface<{}>
 
